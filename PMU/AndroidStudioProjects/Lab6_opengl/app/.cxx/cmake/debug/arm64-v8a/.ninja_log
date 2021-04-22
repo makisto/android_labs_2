@@ -1,0 +1,14 @@
+# ninja log v5
+0	850	629194675	CMakeFiles/gl2jni.dir/gl_code.cpp.o	dbc85fffdf6ca1b1
+859	1065	629194675	D:/Git/hello-gl2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	8b6c35225c25a44a
+27	326	629196014	CMakeFiles/gl2jni.dir/gl_code.cpp.o	dbc85fffdf6ca1b1
+326	427	629196014	D:/Git/hello-gl2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	8b6c35225c25a44a
+3	287	629196031	CMakeFiles/gl2jni.dir/gl_code.cpp.o	dbc85fffdf6ca1b1
+287	355	629196031	D:/Git/hello-gl2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	8b6c35225c25a44a
+3	232	629196412	CMakeFiles/gl2jni.dir/gl_code.cpp.o	dbc85fffdf6ca1b1
+233	360	629196412	D:/Git/hello-gl2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	8b6c35225c25a44a
+2	228	629197436	CMakeFiles/gl2jni.dir/gl_code.cpp.o	dbc85fffdf6ca1b1
+2	256	629197601	CMakeFiles/gl2jni.dir/gl_code.cpp.o	dbc85fffdf6ca1b1
+256	323	629197601	D:/Git/hello-gl2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	8b6c35225c25a44a
+3	258	629197871	CMakeFiles/gl2jni.dir/gl_code.cpp.o	dbc85fffdf6ca1b1
+258	367	629197872	D:/Git/hello-gl2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	8b6c35225c25a44a

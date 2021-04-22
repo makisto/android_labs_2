@@ -1,0 +1,10 @@
+ninja: Entering directory `D:\Git\hello-gl2\app\.cxx\cmake\debug\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/gl2jni.dir/gl_code.cpp.o
+D:/Git/hello-gl2/app/src/main/cpp/gl_code.cpp:72:14: warning: unused variable 'column' [-Wunused-variable]
+    int row, column = 0;
+             ^
+D:/Git/hello-gl2/app/src/main/cpp/gl_code.cpp:72:9: warning: unused variable 'row' [-Wunused-variable]
+    int row, column = 0;
+        ^
+2 warnings generated.
+[2/2] Linking CXX shared library D:\Git\hello-gl2\app\build\intermediates\cmake\debug\obj\arm64-v8a\libgl2jni.so
